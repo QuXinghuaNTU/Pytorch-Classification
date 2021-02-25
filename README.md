@@ -8,8 +8,8 @@ In general, you can go to the main.py to run the code:
 
 # Detail settings are shown below
 ## model creation:
-```from model import Intellik_Net```
-```model = Intellik_Net(input_dim, layer_num, hidden_layer_dim_list, out_dim)```
+```from model import Intellik_Net
+model = Intellik_Net(input_dim, layer_num, hidden_layer_dim_list, out_dim```
 In model.py, 
 ```Intellik_Net(input_dim, layer_num, hidden_layer_dim_list, out_dim) automitically create the NN model for the training based on user's hyperparameter settings.```
 
