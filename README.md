@@ -6,8 +6,8 @@ In general, you can go to the main.py to run the code:
 ```python main.py --input_dim 2 --layer_num 2 --hidden_layer_dims [20,20] --out_dim 2 --max_epoch 1000 --learning_rate 0.0001```
 
 
-# Detail settings are shown below
-## model creation:
+## Detail settings are shown below
+### model creation:
 ```from model import Intellik_Net
 model = Intellik_Net(input_dim, layer_num, hidden_layer_dim_list, out_dim```
 In model.py, 
