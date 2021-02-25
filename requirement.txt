@@ -1,0 +1,5 @@
+mlagents    =0.23.0
+scikit-learn=0.24.1
+torch       =1.7.1
+pandas      =1.2.2
+pillow      =8.1.0
